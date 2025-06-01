@@ -11,3 +11,8 @@ Each project folder includes:
 📰 Follow the journey: [[Substack Link](https://jahnavi269.substack.com)]
 
 ---
+## 🔄 Project List
+
+| Week | Project               | Link     |
+|------|------------------------|----------|
+| 01   | Counter App            | [Week01](./Week01-CounterApp) |
