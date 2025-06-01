@@ -13,10 +13,12 @@ A simple SwiftUI app with:
 - Using `Text` and `Button` views in SwiftUI
 - Applying modifiers like `.padding()`, `.cornerRadius()`, and `.background()`
 - Formatting numbers using `.number` (thanks to [this blog](https://medium.com/@jpmtech/formatting-numbers-in-swiftui-fc5ee2920a59))
-- How small layout tweaks change the look drastically
+
+
 
 ## 🔍 Screenshot
-![Counter App Screenshot](../Screenshot%202025-06-01%20at%2010.52.55%E2%80%AFAM.png)
+<img width="1440" alt="Screenshot 2025-06-01 at 11 06 05 AM" src="https://github.com/user-attachments/assets/819faf3f-a327-4dd8-b8f3-09cc78e46191" />
+
 
 ## 📚 References
 - [SwiftUI Button: A Complete Tutorial – Rootstrap](https://www.rootstrap.com/blog/swiftui-button-a-complete-tutorial)
